@@ -1,0 +1,3 @@
+BATERÍA DE EJERCICIOS ES6+
+
+Alumna: Maria Rivas
